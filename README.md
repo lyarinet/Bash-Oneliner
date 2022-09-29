@@ -1,3 +1,7 @@
+<h3 align="center">
+<img src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
+</h3>
+
 # Bash-Oneliner
 I am glad that you are here! I was working on bioinformatics a few years ago and was amazed by those single-word bash commands which are much faster than my dull scripts, time saved through learning command-line shortcuts and scripting. Recent years I am working on cloud computing and I keep recording those useful commands here. Not all of them is oneliner, but i put effort on making them brief and swift. I am mainly using Ubuntu, Amazon Linux, RedHat, Linux Mint, Mac and CentOS, sorry if the commands don't work on your system.
 
